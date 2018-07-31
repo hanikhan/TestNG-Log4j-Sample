@@ -1,0 +1,32 @@
+2018-07-31 21:17:50 INFO  BrowserStackTestNGTest:72 - 76e06b2493b5108882902aff10cdafee7dfbc21f - Created a new WebDriver Instance with Caps: Capabilities [{build=testng-browserstack, browser=internet explorer, name=parallel_test, browserstack.debug=true}]
+2018-07-31 21:17:51 INFO  BrowserStackTestNGTest:72 - 15210a7176a40305ae5aa9901b1ab47a9666d288 - Created a new WebDriver Instance with Caps: Capabilities [{build=testng-browserstack, browser=chrome, name=parallel_test, browserstack.debug=true}]
+2018-07-31 21:17:51 INFO  Tests:14 - 15210a7176a40305ae5aa9901b1ab47a9666d288 - Open Google homepage
+2018-07-31 21:17:52 INFO  Tests:16 - 15210a7176a40305ae5aa9901b1ab47a9666d288 - find Element by name 'q'
+2018-07-31 21:17:52 INFO  Tests:18 - 15210a7176a40305ae5aa9901b1ab47a9666d288 - SendKeys : BrowserStack
+2018-07-31 21:17:52 INFO  Tests:14 - 76e06b2493b5108882902aff10cdafee7dfbc21f - Open Google homepage
+2018-07-31 21:17:52 INFO  Tests:20 - 15210a7176a40305ae5aa9901b1ab47a9666d288 - use submit on Element
+2018-07-31 21:17:53 INFO  Tests:16 - 76e06b2493b5108882902aff10cdafee7dfbc21f - find Element by name 'q'
+2018-07-31 21:17:54 INFO  Tests:18 - 76e06b2493b5108882902aff10cdafee7dfbc21f - SendKeys : BrowserStack
+2018-07-31 21:17:54 INFO  BrowserStackTestNGTest:72 - 7289fbc812deea2bd132d48277c81fc3833689d2 - Created a new WebDriver Instance with Caps: Capabilities [{build=testng-browserstack, browser=firefox, name=parallel_test, browserstack.debug=true}]
+2018-07-31 21:17:55 INFO  Tests:14 - 7289fbc812deea2bd132d48277c81fc3833689d2 - Open Google homepage
+2018-07-31 21:17:55 INFO  Tests:16 - 7289fbc812deea2bd132d48277c81fc3833689d2 - find Element by name 'q'
+2018-07-31 21:17:55 INFO  BrowserStackTestNGTest:72 - 1684a114e2990a20d5f1281a0b6b8c8bab0da18f - Created a new WebDriver Instance with Caps: Capabilities [{build=testng-browserstack, browser=safari, name=parallel_test, browserstack.debug=true}]
+2018-07-31 21:17:55 INFO  Tests:18 - 7289fbc812deea2bd132d48277c81fc3833689d2 - SendKeys : BrowserStack
+2018-07-31 21:17:55 INFO  Tests:20 - 7289fbc812deea2bd132d48277c81fc3833689d2 - use submit on Element
+2018-07-31 21:17:56 INFO  Tests:14 - 1684a114e2990a20d5f1281a0b6b8c8bab0da18f - Open Google homepage
+2018-07-31 21:17:56 INFO  Tests:16 - 1684a114e2990a20d5f1281a0b6b8c8bab0da18f - find Element by name 'q'
+2018-07-31 21:17:56 INFO  Tests:18 - 1684a114e2990a20d5f1281a0b6b8c8bab0da18f - SendKeys : BrowserStack
+2018-07-31 21:17:57 INFO  Tests:20 - 1684a114e2990a20d5f1281a0b6b8c8bab0da18f - use submit on Element
+2018-07-31 21:17:57 INFO  Tests:22 - 15210a7176a40305ae5aa9901b1ab47a9666d288 - Adding 5 seconds sleep
+2018-07-31 21:17:57 INFO  Tests:20 - 76e06b2493b5108882902aff10cdafee7dfbc21f - use submit on Element
+2018-07-31 21:17:57 INFO  SingleTest:21 - 15210a7176a40305ae5aa9901b1ab47a9666d288 - Assert text "BrowserStack - Google Search" with page title
+2018-07-31 21:17:57 INFO  BrowserStackTestNGTest:81 - 15210a7176a40305ae5aa9901b1ab47a9666d288 - Terminating session using driver.quit()
+2018-07-31 21:18:00 INFO  Tests:22 - 7289fbc812deea2bd132d48277c81fc3833689d2 - Adding 5 seconds sleep
+2018-07-31 21:18:01 INFO  SingleTest:21 - 7289fbc812deea2bd132d48277c81fc3833689d2 - Assert text "BrowserStack - Google Search" with page title
+2018-07-31 21:18:01 INFO  BrowserStackTestNGTest:81 - 7289fbc812deea2bd132d48277c81fc3833689d2 - Terminating session using driver.quit()
+2018-07-31 21:18:02 INFO  Tests:22 - 1684a114e2990a20d5f1281a0b6b8c8bab0da18f - Adding 5 seconds sleep
+2018-07-31 21:18:02 INFO  SingleTest:21 - 1684a114e2990a20d5f1281a0b6b8c8bab0da18f - Assert text "BrowserStack - Google Search" with page title
+2018-07-31 21:18:02 INFO  BrowserStackTestNGTest:81 - 1684a114e2990a20d5f1281a0b6b8c8bab0da18f - Terminating session using driver.quit()
+2018-07-31 21:18:02 INFO  Tests:22 - 76e06b2493b5108882902aff10cdafee7dfbc21f - Adding 5 seconds sleep
+2018-07-31 21:18:03 INFO  SingleTest:21 - 76e06b2493b5108882902aff10cdafee7dfbc21f - Assert text "BrowserStack - Google Search" with page title
+2018-07-31 21:18:03 INFO  BrowserStackTestNGTest:81 - 76e06b2493b5108882902aff10cdafee7dfbc21f - Terminating session using driver.quit()
