@@ -27,7 +27,8 @@
   export BROWSERSTACK_USERNAME=<browserstack-username> &&
   export BROWSERSTACK_ACCESS_KEY=<browserstack-access-key>
   ```
-##Log4j implementation
+
+## Log4j implementation
 * Log4j properties file available under 'src/test/resources/log4j.properties'
 * Current implemenation uses INFO level appender. Current implementation can be extended to use multiple appenders
 * Logs can be accessed under 'logs' folder
