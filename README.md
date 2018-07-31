@@ -33,3 +33,4 @@
 * Current implemenation uses INFO level appender. Current implementation can be extended to use multiple appenders
 * Logs can be accessed under 'logs' folder
 * Logs use the following format: [TimeStamp] [Log_Level] [Class] [SessionID] [Custom Log Message]
+* Sample logs for a parallel test sessions can be accessed [here](https://github.com/hanikhan/TestNG-Log4j-Sample/blob/master/logs/Test_Sessions.log)
