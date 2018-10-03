@@ -11,9 +11,10 @@
     <url>https://www.github.com/browserstack/testng-browserstack</url>
 
     <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <surefire.version>2.19.1</surefire.version>
-
         <test.file></test.file>
         <config.file>default</config.file>
     </properties>
